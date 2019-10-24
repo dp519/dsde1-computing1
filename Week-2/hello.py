@@ -8,4 +8,7 @@ print('The length of your name is:')
 print(len(myName))
 print('what is your age?') # ask for their age
 myAge = input()
-print('you will be ?' , str(int(myAge) + 1) , 'in a year.')
+print('you will be' , str(int(myAge) + 1) , 'in a year.')
+print('where are you from?') #ask for their nationality 
+myNationality = input()
+print('oh so you are from' , myNationality )
