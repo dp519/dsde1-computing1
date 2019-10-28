@@ -1,0 +1,7 @@
+#run this program 
+if name == 'Mary':
+print('Hello Mary)
+if password == 'penis'
+print('Access granted')
+else:
+print('Wrong password)
